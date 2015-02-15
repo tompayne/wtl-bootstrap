@@ -1,4 +1,4 @@
-# [Web-to-Lead Freelancer + Spam](http://webtolead.agilepond.com/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [AgilePond Inc.](http://www.agilepond.com/). 
+# [Web-to-Lead Freelancer + Spam](http://webtolead.agilepond.com/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [AgilePond Inc](http://www.agilepond.com/). 
 
 [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
